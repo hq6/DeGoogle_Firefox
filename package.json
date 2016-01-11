@@ -1,0 +1,16 @@
+{
+  "title": "Remove Google Redirect in Google Results",
+  "name": "degoogle",
+  "version": "0.0.4",
+  "description": "An add-on to remove the Google redirect from Google search results.",
+  "main": "index.js",
+  "author": "hq6",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  "permissions": {"private-browsing": true}
+}
